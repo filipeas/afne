@@ -1,0 +1,24 @@
+type: AFNe
+M:
+    Q: 
+        - q0
+        - q1
+        - q2
+    Sigma: 
+        - 2
+        - 1
+        - 0
+    Delta:
+        - "q0, 0":
+            - q0
+        - "q0, epsilon":
+            - q1
+        - "q1, 1":
+            - q1
+        - "q1, epsilon":
+            - q2
+        - "q2, 2":
+            - q2
+    q0: q0
+    F:
+        - q2
