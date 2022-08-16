@@ -1,6 +1,3 @@
-from xml.etree.ElementTree import ElementTree
-
-
 class AFNe():
     def __init__(self, q: set, sigma: set, delta: dict, q0: str, f: set):
         self.q = q
