@@ -25,3 +25,8 @@ Após a instalação do python na sua máquina (ou o anaconda), execute os segui
 
 1) Vá até o arquivo ./languages/afn-e.yml. Abra-o e modifique de acordo com o AFNe que desejar testar. **Siga o padrão definido pelo arquivo.**
 2) Abra o terminal dentro do diretório raíz e execute: ``` python main.py ```. Ele irá mostrar o autômato e a 5-upla do mesmo. Informe uma linguagem e ele irá informar se é aceita ou não. Após isso ele irá perguntar se você deseja converter o AFNe para um AFN. E por fim perguntará se deseja executar o teste novamente.
+
+# Contribuintes
+- [Filipe Alves Sampaio](https://github.com/filipeas)
+- [Rodrigo Elyel](https://github.com/RodrigoElyel)
+- Samuel Borges
